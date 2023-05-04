@@ -22,7 +22,7 @@ Here is my LinkedIn profile:
   
   ---
 Some projects I have worked on:
-#to fill out
+[University Course: Introduction to IT](https://www.kth.se/student/kurser/kurs/II1306)[Github repository](https://gits-15.sys.kth.se/nlaw/II1306_Group_6_Project)
 
   ---
 ### Languages and Tools:
