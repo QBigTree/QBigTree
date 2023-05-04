@@ -15,13 +15,13 @@ Here is my LinkedIn profile:
  ---
 
 ### About Me:
-  - 🌱 I am currently in my second year studying IT at KTH
-  - 💬 I am experienced with working on projects in large teams
-  - ⚡ In my free time, I like to study machine learning and algorithms
-  - 📬 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Nicholas-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/niclaw/)
+  - I am currently in my second year studying IT at KTH
+  - I am experienced with working on projects in large teams
+  - In my free time, I like to study machine learning and algorithms
+  - How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Nicholas-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/niclaw/)
   
   ---
-👨‍💻 Some projects I have worked on:
+Some projects I have worked on:
 #to fill out
 
   ---
