@@ -25,7 +25,7 @@ Some projects I have worked on:
 #to fill out
 
   ---
-### :hammer_and_wrench: Languages and Tools:
+### Languages and Tools:
   <div>
     <a href="https://www.latex-project.org/">
       <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="LaTeX" **alt="Latex" width="40" height="40"/>
