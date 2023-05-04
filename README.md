@@ -2,8 +2,8 @@
   <img src = "https://media.giphy.com/media/TEEGg4xCGy1ZVykRzI/giphy.gif" , width ="150"/>
 </div>
 
-### 👋 Hello there. This is my GitHub portfolio 👋
-My name is Nicholas Lawrence and I am a student at KTH Royal Institute of Technology studying for bachelors degree in Information and Communication technologies.
+### Hello there. This is my GitHub portfolio
+My name is Nicholas Lawrence. I am a student at KTH Royal Institute of Technology studying for bachelors degree in Information and Communication technologies.
 
 Here is my LinkedIn profile:
 #todo
@@ -36,10 +36,10 @@ Here is my LinkedIn profile:
     <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original-wordmark.svg" title="Slack Workspace" **alt="Slack" width="40" height="40"/>
      <a href="https://reactnative.dev/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React Native" **alt="Slack" width="40" height="40"/>
-  <a href="https://www.ruby-lang.org/en/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original-wordmark.svg" title="Ruby Programming Language" **alt="Ruby" width="40" height="40"/>
- <a href="https://www.python.org/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python Programming Language" **alt="Python" width="40" height="40"/>
+    <a href="https://www.ruby-lang.org/en/">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original-wordmark.svg" title="Ruby Programming Language" **alt="Ruby" width="40" height="40"/>
+    <a href="https://www.python.org/">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python Programming Language" **alt="Python" width="40" height="40"/>
   ---
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=QBigTree)](https://github.com/anuraghazra/github-readme-stats)
