@@ -2,14 +2,14 @@
   <img src = "https://media.giphy.com/media/TEEGg4xCGy1ZVykRzI/giphy.gif" , width ="150"/>
 </div>
 
-### 👋 Hi there, welcome to my GitHub portfolio 👋
-My name is Nicholas Lawrence and I am a student in the bachelor program of information and communication technology at KTH Royal Institute of Technology
+### 👋 Hello there. This is my GitHub portfolio 👋
+My name is Nicholas Lawrence and I am a student at KTH Royal Institute of Technology studying for bachelors degree in Information and Communication technologies.
 
-Check out my experience and education from my LinkedIn:
-
+Here is my LinkedIn profile:
+#todo
  ---
 
-### :smile: About Me:
+### About Me:
   - 🌱 I am currently in my second year studying IT at KTH
   - 💬 I am experienced with working on projects in large teams
   - ⚡ In my free time, I like to study machine learning and algorithms
@@ -17,13 +17,7 @@ Check out my experience and education from my LinkedIn:
   
   ---
 👨‍💻 Some projects I have worked on:
-- [ID1018 -](https://www.kth.se/student/kurser/kurs/ID1018)[ Programming I](https://gits-15.sys.kth.se/weichenc/ID1018)
-- [IS1200 -](https://www.kth.se/student/kurser/kurs/IS1200?l=en) [Computer Hardware Engineering](https://github.com/ChickenTheSlayer/IS1200)
-- [ID1021 -](https://www.kth.se/student/kurser/kurs/ID1021) [Algorithms and Data Structures](https://github.com/ChickenTheSlayer/ID1021-Algorithms-and-Data-Structures)
-- [IK1203 -](https://www.kth.se/student/kurser/kurs/IK1203?l=en) [Network and Communication](https://github.com/ChickenTheSlayer/IK1203-Network-And-Com)
-- [ID1206 -](https://www.kth.se/student/kurser/kurs/ID1206) [Operating Systems](https://github.com/ChickenTheSlayer/ID1206)
-- [ID1019 -](https://www.kth.se/student/kurser/kurs/ID1019) [Programming II](https://github.com/ChickenTheSlayer/IK1203-Network-And-Com)
-
+#to fill out
 
   ---
 ### :hammer_and_wrench: Languages and Tools:
@@ -31,7 +25,7 @@ Check out my experience and education from my LinkedIn:
     <a href="https://www.latex-project.org/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="LaTeX" **alt="Latex" width="40" height="40"/>
   <a href="https://www.java.com/en/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java Programming Language" alt="Java" width="40" height="40"/>&nbsp;
   <a href="https://atom.io/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original-wordmark.svg" title="Atom" **alt="Atom" width="40" height="40"/>
   <a href="https://www.arduino.cc/">
@@ -42,8 +36,10 @@ Check out my experience and education from my LinkedIn:
     <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original-wordmark.svg" title="Slack Workspace" **alt="Slack" width="40" height="40"/>
      <a href="https://reactnative.dev/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React Native" **alt="Slack" width="40" height="40"/>
-
- 
+  <a href="https://www.ruby-lang.org/en/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original-wordmark.svg" title="Ruby Programming Language" **alt="Ruby" width="40" height="40"/>
+ <a href="https://www.python.org/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python Programming Language" **alt="Python" width="40" height="40"/>
   ---
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=QBigTree)](https://github.com/anuraghazra/github-readme-stats)
