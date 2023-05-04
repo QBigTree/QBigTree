@@ -8,7 +8,7 @@ My name is Nicholas Lawrence. I am a student at KTH Royal Institute of Technolog
 Here is my LinkedIn profile:
 <div id="badges">
   <a href="https://www.linkedin.com/in/niclaw/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://static.vecteezy.com/system/resources/previews/018/930/584/original/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="LinkedIn Badge"/>
   </a>
 <div align="center">
 </div>
