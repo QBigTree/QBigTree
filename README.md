@@ -22,9 +22,9 @@ Here is my LinkedIn profile:
   
   ---
 Some projects I have worked on:
-- [University Course: Introduction to IT  ](https://www.kth.se/student/kurser/kurs/II1306)[ Github repository](https://gits-15.sys.kth.se/nlaw/II1306_Group_6_Project)
-- [University Course: Programming II  ](https://www.kth.se/student/kurser/kurs/ID1019)[ Github repository](https://gits-15.sys.kth.se/nlaw/Programming_2)
-- [University Course: Algorithms and data structures  ](https://www.kth.se/student/kurser/kurs/ID1021)[ Github repository](https://gits-15.sys.kth.se/nlaw/Algorithms)
+- [University Course: Introduction to IT.  ](https://www.kth.se/student/kurser/kurs/II1306)[ Github repository](https://gits-15.sys.kth.se/nlaw/II1306_Group_6_Project)
+- [University Course: Programming II.  ](https://www.kth.se/student/kurser/kurs/ID1019)[ Github repository](https://gits-15.sys.kth.se/nlaw/Programming_2)
+- [University Course: Algorithms and Data structures.  ](https://www.kth.se/student/kurser/kurs/ID1021)[ Github repository](https://gits-15.sys.kth.se/nlaw/Algorithms)
   
   ---
 ### Languages and Tools:
