@@ -6,7 +6,12 @@
 My name is Nicholas Lawrence. I am a student at KTH Royal Institute of Technology studying for bachelors degree in Information and Communication technologies.
 
 Here is my LinkedIn profile:
-#todo
+<div id="badges">
+  <a href="https://www.linkedin.com/in/niclaw/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+<div align="center">
+</div>
  ---
 
 ### About Me:
