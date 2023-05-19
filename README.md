@@ -1,7 +1,3 @@
-<div id = "header", align="center">
-  <img src = "https://media.giphy.com/media/TEEGg4xCGy1ZVykRzI/giphy.gif" , width ="150"/>
-</div>
-
 ### Hello there. This is my GitHub portfolio
 My name is Nicholas Lawrence. I am a student at KTH Royal Institute of Technology studying for bachelors degree in Information and Communication technologies.
 
